@@ -1,16 +1,57 @@
-## Hi there 👋
+# 👋 Olá, eu sou o Luis Abreu
+---
 
-<!--
-**beb0pp/beb0pp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Sobre mim
 
-Here are some ideas to get you started:
+Sou desenvolvedor Python com foco em automações financeiras, APIs, análise de dados e integrações. Atuo na PropHub, desenvolvendo soluções internas para controle de carteiras, relatórios dinâmicos e muito mais.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=beb0pp&show_icons=true&theme=radical" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=beb0pp&layout=compact&theme=radical" width="48%" />
+</p>
+
+---
+
+## 🔥 Atividade de Commits
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=beb0pp&theme=dark&date_format=M%20j%5B%2C%20Y%5D" />
+</p>
+
+---
+
+## 🧠 Tecnologias que domino
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-black?style=flat&logo=flask)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+
+---
+
+## 🧰 Features do meu perfil
+
+- Desenvolvimento de **APIs REST** com Flask
+- Geração automática de **relatórios PDF** com dados de mercado
+- Scripts de **controle de fundos de investimento**
+- Integrações com **Outlook, WhatsApp, Telegram e Excel**
+- Uso extensivo de **pandas**, **matplotlib** e **reportlab**
+
+---
+
+## 📬 Contato
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/luisfelipemacariodeabreu)
+- 📸 [Instagram](https://www.instagram.com/luss.jpg)
+
+---
+
+<p align="center">
+  Feito com ❤️ por <strong>Luis Abreu</strong> | @beb0pp
+</p>
