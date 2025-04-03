@@ -1,6 +1,10 @@
 # 👋 Olá, eu sou o Luis Abreu
 ---
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/beb0pp/beb0pp/main/github-metrics.svg" alt="GitHub Metrics"/>
+</p>
+
 ## 🚀 Sobre mim
 
 Sou desenvolvedor Python com foco em automações financeiras, APIs, análise de dados e integrações. Atuo na PropHub, desenvolvendo soluções internas para controle de carteiras, relatórios dinâmicos e muito mais.
