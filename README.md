@@ -4,7 +4,7 @@
 
 ## 🚀 Sobre mim
 
-Sou desenvolvedor Python com foco em automações financeiras, APIs, análise de dados e integrações. Atuo na EQI Asset, desenvolvendo soluções internas para controle de carteiras, relatórios dinâmicos e muito mais.
+Sou desenvolvedor Python com foco em automações financeiras, APIs, análise de dados e integrações. Atuo na PropHub, desenvolvendo soluções internas para mesas proprietarias, analises de trades e monitoraçao de risco das operacoes .
 
 ---
 
