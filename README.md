@@ -1,9 +1,5 @@
 # 👋 Olá, eu sou o Luis Abreu
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/beb0pp/beb0pp/main/github-metrics.svg" alt="GitHub Metrics"/>
-</p>
-
 ---
 
 ## 🚀 Sobre mim
@@ -17,14 +13,6 @@ Sou desenvolvedor Python com foco em automações financeiras, APIs, análise de
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=beb0pp&show_icons=true&theme=radical" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=beb0pp&layout=compact&theme=radical" width="48%" />
-</p>
-
----
-
-## 🔥 Atividade de Commits
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=beb0pp&theme=dark&date_format=M%20j%5B%2C%20Y%5D" />
 </p>
 
 ---
