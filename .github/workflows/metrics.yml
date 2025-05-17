@@ -15,4 +15,4 @@ jobs:
           base: header, repositories
           plugin_languages: yes
           config_timezone: America/Sao_Paulo
-          template: minimal
+          template: classic
