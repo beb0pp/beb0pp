@@ -42,12 +42,6 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=beb0pp&bg_color=0d1117&color=ffffff&line=ffffff&point=c9d1d9&area=true&hide_border=true" />
 </p>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/beb0pp/beb0pp/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/beb0pp/beb0pp/output/github-contribution-grid-snake.svg" />
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/beb0pp/beb0pp/output/github-contribution-grid-snake.svg" />
-</picture>
-
 ---
 
 ### O que eu faço
